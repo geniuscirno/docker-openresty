@@ -40,6 +40,7 @@ ARG RESTY_CONFIG_OPTIONS="\
     --with-stream \
     --with-stream_ssl_module \
     --with-threads \
+    --with-debug
     "
 ARG RESTY_CONFIG_OPTIONS_MORE=""
 
